@@ -1,0 +1,8 @@
+1. 预处理
+g++ -E xxx.cpp -o xxx.i
+2. 编译
+g++ -S xxx.cpp -o xxx.s
+3. 汇编
+g++ -c xxx.cpp -o xxx.o
+4. 链接
+g++ xxx.o -o xxx
