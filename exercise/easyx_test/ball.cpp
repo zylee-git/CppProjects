@@ -4,7 +4,7 @@
 
 int main()
 {
-    initgraph(800, 600);
+    initgraph(800, 600, EX_SHOWCONSOLE);
     setbkcolor(WHITE);
 
     // FPS 60Hz
