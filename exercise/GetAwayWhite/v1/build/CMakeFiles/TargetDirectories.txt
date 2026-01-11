@@ -1,0 +1,3 @@
+C:/Users/22411/Documents/codes/CppProjects/exercise/GetAwayWhite/v1/build/CMakeFiles/GetAwayWhiteBlock.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/GetAwayWhite/v1/build/CMakeFiles/edit_cache.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/GetAwayWhite/v1/build/CMakeFiles/rebuild_cache.dir

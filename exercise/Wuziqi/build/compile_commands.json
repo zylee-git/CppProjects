@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src",
+  "command": "C:\\programs\\profession\\compilers\\mingw\\bin\\g++.exe  @CMakeFiles/Wuziqi.dir/includes_CXX.rsp -g -o CMakeFiles\\Wuziqi.dir\\main.cpp.obj -c C:\\Users\\22411\\Documents\\codes\\CppProjects\\exercise\\Wuziqi\\src\\main.cpp",
+  "file": "C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/src/main.cpp",
+  "output": "src/CMakeFiles/Wuziqi.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/board",
+  "command": "C:\\programs\\profession\\compilers\\mingw\\bin\\g++.exe -Dboard_EXPORTS @CMakeFiles/board.dir/includes_CXX.rsp -g -o CMakeFiles\\board.dir\\board.cpp.obj -c C:\\Users\\22411\\Documents\\codes\\CppProjects\\exercise\\Wuziqi\\src\\board\\board.cpp",
+  "file": "C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/src/board/board.cpp",
+  "output": "src/board/CMakeFiles/board.dir/board.cpp.obj"
+},
+{
+  "directory": "C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/show",
+  "command": "C:\\programs\\profession\\compilers\\mingw\\bin\\g++.exe -Dshow_EXPORTS @CMakeFiles/show.dir/includes_CXX.rsp -g -o CMakeFiles\\show.dir\\show.cpp.obj -c C:\\Users\\22411\\Documents\\codes\\CppProjects\\exercise\\Wuziqi\\src\\show\\show.cpp",
+  "file": "C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/src/show/show.cpp",
+  "output": "src/show/CMakeFiles/show.dir/show.cpp.obj"
+}
+]

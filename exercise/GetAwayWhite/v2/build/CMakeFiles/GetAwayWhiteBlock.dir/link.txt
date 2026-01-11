@@ -1,0 +1,3 @@
+C:\programs\profession\CMake\bin\cmake.exe -E rm -f CMakeFiles\GetAwayWhiteBlock.dir/objects.a
+C:\programs\profession\compilers\mingw\bin\ar.exe qc CMakeFiles\GetAwayWhiteBlock.dir/objects.a @CMakeFiles\GetAwayWhiteBlock.dir\objects1.rsp
+C:\programs\profession\compilers\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\GetAwayWhiteBlock.dir/objects.a -Wl,--no-whole-archive -o C:\Users\22411\Documents\codes\CppProjects\exercise\GetAwayWhite\v2\bin\GetAwayWhiteBlock.exe -Wl,--out-implib,libGetAwayWhiteBlock.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GetAwayWhiteBlock.dir\linkLibs.rsp

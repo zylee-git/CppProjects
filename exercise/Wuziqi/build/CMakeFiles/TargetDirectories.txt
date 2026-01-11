@@ -1,0 +1,11 @@
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/CMakeFiles/edit_cache.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/CMakeFiles/rebuild_cache.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/CMakeFiles/Wuziqi.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/CMakeFiles/edit_cache.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/board/CMakeFiles/board.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/board/CMakeFiles/edit_cache.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/board/CMakeFiles/rebuild_cache.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/show/CMakeFiles/show.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/show/CMakeFiles/edit_cache.dir
+C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build/src/show/CMakeFiles/rebuild_cache.dir

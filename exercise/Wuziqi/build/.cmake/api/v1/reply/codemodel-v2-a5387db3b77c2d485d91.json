@@ -1,0 +1,165 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/board",
+					"jsonFile" : "directory-src.board-Debug-0775e1fcd81b6c82c19e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "src/board",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/show",
+					"jsonFile" : "directory-src.show-Debug-bf3e53157118980d1694.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "src/show",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WuziqiProject"
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Wuziqi",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "board",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "show",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Wuziqi::@145eef247bfb46b6828c",
+					"jsonFile" : "target-Wuziqi-Debug-240eaace4444c674316b.json",
+					"name" : "Wuziqi",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "board::@abb170c388cc2f17bf2e",
+					"jsonFile" : "target-board-Debug-ebfcbf628598bc9127d8.json",
+					"name" : "board",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "show::@dfa8a5b04d090a8cd115",
+					"jsonFile" : "target-show-Debug-b995ceff06ae81d7d071.json",
+					"name" : "show",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi/build",
+		"source" : "C:/Users/22411/Documents/codes/CppProjects/exercise/Wuziqi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
